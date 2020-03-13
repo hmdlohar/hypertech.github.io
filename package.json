@@ -1,0 +1,24 @@
+{
+  "name": "hypertech.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.f4feed4cc9193816862ed3128b3c9006.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmdlohar/hypertech.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmdlohar/hypertech.github.io/issues"
+  },
+  "homepage": "https://hmdlohar.github.io/hypertech.github.io"
+}
